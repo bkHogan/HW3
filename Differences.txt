@@ -1,0 +1,16 @@
+MVC
+Model-View-Controller
+An advantage of this architecture is that it has support for asynchronous request, making it faster. Also, modification does not affect the entire model. This is because the model does not depend on the view.
+A disadvantage is that it increases complexity
+
+
+
+
+
+MVVM
+Model-View-ViewModel
+This is generally used most often in projects. An advantage is that components can be swapped, and worked on individually. Also it supports isolated unit testing. 
+
+
+Main Difference
+The distribution pattern is better in MVVM than in MVC. 
